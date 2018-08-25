@@ -1,5 +1,4 @@
 # WeatherPy
------
 
 ## Background 
 
