@@ -21,7 +21,6 @@ The script accomplishes the following:
 
 * Saves both a CSV of all data retrieved and png images for each scatter plot.
 
------
 ## Observable Trends
 
 * Not surprisingly, temperature increases as we approach the equator. However, temperature peaks at around 20 degrees latitude, not exactly at the equatorial line. This may be due to the Earth's tilt in the axis known as obliquity. 
